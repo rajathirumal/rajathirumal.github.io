@@ -1,0 +1,49 @@
+contact card
+
+
+
+<img
+          class="card-img-top"
+          src="../images/founder.jpg"
+          alt="Founder"
+          style="width:100%"
+        />
+        <h4 class="card-title">Raja Thirumal Govindaraj</h4>
+        <p class="card-text">
+          Raja Thirumal is an engineer. Passionate in creating and deploying
+          thoughtful contents
+        </p>
+        <a href="#" class="btn btn-primary">See Profile</a>
+
+
+nav items
+<div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+              <li><a href="index.html#home">Home</a></li>
+              <li><a href="index.html#qualification">Qualification</a></li>
+              <li><a href="index.html#skills">Skills</a></li>
+              <li><a href="index.html#experience">Experience</a></li>
+            </ul>
+          </div>
+
+“ Jobs said he looked in the mirror every morning and asked himself that question, 
+and whenever the answer was “no” for many days in a row, he knew he needed to make a change. 
+Facing ourselves in the mirror and asking this question to ourselves can help us determine if 
+what we’re doing is truly important and whether your plans for the day actually line up with 
+your priorities. ”
+
+
+
+
+  <div class="card" style="width: 18rem;">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="card-link">Card link</a>
+                <a href="#" class="card-link">Another link</a>
+              </div>
+            </div>
