@@ -4,26 +4,11 @@ body {
   position: relative;
   color: black;
 }
-#home {
-  padding-top: 50px;
-  min-height: 100vh;
-}
-#qualification {
-  padding-top: 50px;
-  min-height: 100vh;
-}
-#skills {
-  padding-top: 50px;
-  min-height: 100vh;
-}
-#experience {
-  padding-top: 50px;
-  min-height: 100vh;
-}
-#creations {
-  padding-top: 50px;
-  min-height: 100vh;
-}
+#home,
+#qualification,
+#skills,
+#experience,
+#creations,
 #getintouch {
   padding-top: 50px;
   min-height: 100vh;
